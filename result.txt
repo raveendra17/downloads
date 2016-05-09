@@ -1,0 +1,2 @@
+delete from abc where rowid='123';
+delete from xyz where rowid='987';
